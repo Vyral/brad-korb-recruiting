@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: -- MARKET -- Careers
+title: Burbank Careers
 permalink: /join-our-team/
 ---
 
