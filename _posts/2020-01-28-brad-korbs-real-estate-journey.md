@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Brad Korb's Real Estate Journey
-date: 2020-01-28 17:22:45
+date: 2020-01-28 17:22:00
 tags:
-excerpt:
+excerpt: >-
+  Hear how Brad Korb went from working in a sandwich shop to becoming a real
+  estate agent and team leader.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
