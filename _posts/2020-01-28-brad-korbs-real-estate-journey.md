@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brad Korb's Real Estate Journey
-date:
+date: 2020-01-28 17:22:45
 tags:
 excerpt:
 enclosure:
