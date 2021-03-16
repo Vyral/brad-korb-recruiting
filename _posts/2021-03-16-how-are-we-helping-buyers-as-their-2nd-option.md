@@ -16,7 +16,7 @@ youtube_code: as8NTqJycsQ
 ---
 {% include youtube.html %}
 
-*Here’s why you always need to be ready to help prospects.*
+<center><em>Here’s why you always need to be ready to help prospects.</em></center>
 
 Recently, I was checking in on some buyers I had previously spoken with—buyers who, at the time, informed me they were already working with a Realtor.
 
