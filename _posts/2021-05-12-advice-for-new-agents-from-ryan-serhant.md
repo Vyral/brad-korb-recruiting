@@ -21,6 +21,6 @@ youtube_code: slKVghHse1o
 
 &nbsp;
 
-As an agent, you should be learning as much as possible. Listen and meet people all day long, study the market, and memorize information. Before you know it, you'll be too busy to focus on learning, so soak it up now. Join a good team, learn from the leader, and ride their successful coattails as far as you possibly can. To hear more of my conversation with Ryan Serhant about what new agents should be focusing on early in their careers, watch this short video.
+As an agent, you should be learning as much as possible. Listen and meet people all day long, study the market, and memorize information. Before you know it, you'll be too busy to focus on learning, so soak it up now. Join a good team, learn from the leader, and ride their successful coattails as far as you possibly can. To hear more of my conversation with Ryan Serhant about what new agents should be focusing on early in their careers, watch the short video above.
 
 {% include full-post-cta.html %}
