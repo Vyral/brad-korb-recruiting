@@ -21,7 +21,7 @@ youtube_code: 42jydK6RWr8
 
 &nbsp;
 
-**Recently, we had a client sign up on our website because they wanted to find a rental.** They were automatically set up with our CRM to give them information on properties that fit their description. Amazingly enough, that rental turned into a buyer who wanted to look at one of our listings in the area.&nbsp;
+**Recently, we had a client sign up on our website because they wanted to find a rental.** They were automatically set up with our CRM to give them information on properties that fit their description. Amazingly enough, that renter turned into a buyer who wanted to look at one of our listings in the area.&nbsp;
 
 **Instead of letting his initial call go unnoticed because it was just a rental call, we were able to find a solution for him because of our website and CRM.** Most agents won’t take the time to do this, but I’m proud to say that we do. Now this client is on the path to homeownership and buying the home of his dreams.&nbsp;
 
