@@ -20,6 +20,6 @@ youtube_code: ZqiXdNsj3d0
 
 &nbsp;
 
-Unless you were living under a rock last year, you already know that real estate agents are breaking records everywhere. Many of them will decide to mail it in for the rest of the year, but that presents a key opportunity for those of you who are hungry for more business. We’re most vulnerable when things are very good, so don’t take your foot off the gas. Many people know how to start strong, but they don’t know how to finish. To see the full webinar on how you can take advantage of this market to increase your real estate business, watch our latest video.
+Unless you were living under a rock last year, you already know that real estate agents are breaking records everywhere. Many of them will decide to mail it in for the rest of the year, but **that presents a key opportunity for those of you who are hungry for more business.** We’re most vulnerable when things are very good, so don’t take your foot off the gas. Many people know how to start strong, but they don’t know how to finish. To see the full webinar on how you can take advantage of this market to increase your real estate business, watch our latest video.
 
 {% include full-post-cta.html %}
