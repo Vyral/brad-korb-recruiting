@@ -6,7 +6,8 @@ tags:
   - Lead Conversion
   - Lead Generation
 excerpt: This webinar explores all of the opportunities for agents in today’s market
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brad+Korb/2021/A+Helpful+Webinar+for+Real+Estate+Agents+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
