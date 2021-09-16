@@ -16,7 +16,7 @@ youtube_code: Wkrc-vEY3VU
 ---
 {% include youtube.html %}
 
-<center>Help us serve our surplus of great leads and make a stellar income.</center>
+<p style="text-align:center;"><em>Help us serve our surplus of great leads and make a stellar income.</em></p>
 
 &nbsp;
 
