@@ -16,7 +16,7 @@ youtube_code: ay1Sf02wzMg
 ---
 {% include youtube.html %}
 
-People are looking for properties on behalf of their friends.
+<p style="text-align:center;"><em>People are looking for properties on behalf of their friends.</em></p>
 
 &nbsp;
 
