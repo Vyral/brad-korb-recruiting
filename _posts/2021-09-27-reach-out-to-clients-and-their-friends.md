@@ -6,7 +6,7 @@ tags:
   - Lead Conversion
   - Lead Generation
 excerpt: People are looking for properties on behalf of their friends.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Brad+Korb/2021/Reach+Out+to+Clients+and+Their+Friends.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
