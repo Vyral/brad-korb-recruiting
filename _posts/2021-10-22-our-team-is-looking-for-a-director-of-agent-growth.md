@@ -16,7 +16,7 @@ youtube_code: EMzuvDizEA0
 ---
 {% include youtube.html %}
 
-*Our team is looking for a director of agent growth and development.*
+<p style="text-align:center;"><em>Our team is looking for a director of agent growth and development.</em></p>
 
 We want to tell you about an amazing opportunity on our team. **We are looking for a director of agent growth and development.** They are going to assist us with the onboarding of agents, host training sessions, and help us hold agents accountable.
 
