@@ -6,7 +6,8 @@ tags:
     - Reviews and Referrals
     - Hiring
 excerpt: Our team is looking for a director of agent growth and development.
-enclosure:
+enclosure: >-
+    https://vyralmarketing.s3.amazonaws.com/Brad+Korb/2021/Our+Team+Is+Looking+for+a+Director+of+Agent+Growth.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,7 @@ youtube_code: EMzuvDizEA0
 ---
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Our team is looking for a director of agent growth and development.</em></p>
+*Our team is looking for a director of agent growth and development.*
 
 We want to tell you about an amazing opportunity on our team. **We are looking for a director of agent growth and development.** They are going to assist us with the onboarding of agents, host training sessions, and help us hold agents accountable.
 
