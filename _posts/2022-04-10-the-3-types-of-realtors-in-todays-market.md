@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/adapt-market-yt-brad-korb-ss.jpg
-youtube_code: pUlfwgpBFeo
+youtube_code: Mz01Hw41qb4
 ---
 {% include youtube.html %}
 
