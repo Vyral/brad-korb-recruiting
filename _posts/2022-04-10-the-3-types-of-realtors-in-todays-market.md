@@ -4,7 +4,8 @@ title: The 3 Types of Realtors in Today's Market
 date: 2022-04-10 00:00:00
 tags:
 excerpt: How you can stay successful in this difficult, changing market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brad+Korb/2022/The+3+Types+of+Realtors+in+Today's+Market.mp4
 pullquote: I hope you can be that third type of agent at the end of the year.
 enclosure_type: video/mp4
 enclosure_time:
