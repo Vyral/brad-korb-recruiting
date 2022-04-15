@@ -16,20 +16,20 @@ youtube_code: Mz01Hw41qb4
 
 {% include excerpt.html %}
 
-It’s April 2022, and across the country, we’re experiencing the lowest home inventory levels in decades. Lots of Realtors are starting to feel the uncertainty of this market. Now more than ever, it’s important to stay consistent and work to be successful. Let me explain why.
+There will be three types of sales people in our industry at the end of 2022. Which will you choose to be?
 
-Put yourself in the end-of-year mindset. By December 2022, there will be three types of agents. Which one do you want to be?
+We’re experiencing the lowest inventory levels in residential real estate that we’ve seen in decades.
 
-**The first type of Realtor won’t be there.** They will have dropped out of the industry. If you look around your brokerage, some of the agents won’t be here come December, and they will blame the market.&nbsp;
+How we as brokers and licensees choose to respond will make the difference between success and failure this year.
 
-**The second type of agent will have had a tough year.** They struggled but managed to make it through. Maybe they got frustrated and almost quit but decided to stick it out a bit longer. They will blame the market and say that it’s why they struggled.
+1️. The first person will not be here in our industry at the end of the year. They will blame the industry for their failure and seek opportunities elsewhere.
 
-{% include pullquote.html %}
+2️. The second person will struggle, have a difficult year in their business, but will make it through. They will also blame the market for the difficulties in their business.
 
-**The third Realtor will have recognized the market changes.** They realized that it was a difficult market due to low inventory and went back to the basics. They called their sphere of influence, followed the leads in their database, and stayed consistent with follow-up.&nbsp;
+3️. The third person will recognize the challenges in the market and return to the basic principles which brought them success:
 
-If you’re like most agents, you’ve gotten behind just catching up on inquiries. Actual lead generation has fallen to the side. Now’s the time to pick it back up. Spend two or three hours every day calling or texting people and asking if they know anyone looking to buy or sell. Reach out to those clients that fell off your radar.
+* Focused and consistent lead generation.
+* Contact and follow up with personal sphere.
+* Focusing only on that which they control; the effort that they can put into their business every day.
 
-Things are going to change. The best thing you can do is change your tactics before it’s too late. Instead of focusing on what’s happening around you that you can’t control, focus on what you can control.
-
-I hope you can be that third type of agent at the end of the year. If you have any questions, feel free to call or email me. I’d love to hear from you.
+There are opportunities in every market. I hope you’ll be the third person and remain positive while focusing on what you control. See you in 2023\!
