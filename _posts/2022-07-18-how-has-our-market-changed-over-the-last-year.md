@@ -16,8 +16,6 @@ youtube_code: 1RgvhF2N4ic
 
 {% include excerpt.html %}
 
-{% include full-post-cta.html %}
-
 Today we want to give you a quick market update and compare June 2021 to June 2022 to explain what's going on in the Burbank, Glendale, and North Hollywood markets. Here’s how our market has changed over the past year:
 
 * In June 2021, there were 242 sales, while there were 189 sales in June 2022. That’s a drop of over 28%.
@@ -30,4 +28,4 @@ Today we want to give you a quick market update and compare June 2021 to June 20
 
 We're seeing more inventory on the market and more buyers, so it’s a great time to buy and sell. If you have any questions, don’t hesitate to reach out to us by phone or email. We look forward to hearing from you.
 
-&nbsp;
+{% include full-post-cta.html %}
