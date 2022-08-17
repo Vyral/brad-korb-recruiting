@@ -11,7 +11,7 @@ pullquote: 'How to work with buyers is changing, but it is your turn to shine. '
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/youtube-bk.jpg
+youtube_alternate_image: /uploads/youtube.jpg
 youtube_code: OzdMRQd7sWg
 ---
 {% include youtube.html %}
